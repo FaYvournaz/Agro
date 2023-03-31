@@ -1,0 +1,81 @@
+.header-content {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 20px;
+}
+
+.logo-img {
+  display: flex;
+  align-items: center;
+}
+
+.logo-letters {
+  color: rgb(30, 124, 112);
+  font-size: 150%;
+  padding-top: 10px;
+}
+
+.container {
+  padding-left: 50px;
+  padding-right: 50px;
+}
+
+.bi-img {
+  width: 100%;
+  height: auto;
+}
+.nav-item {
+  margin-right: 400px;
+  list-style: none;
+}
+
+.ul-item li {
+  display: inline-block;
+  margin-left: 50px;
+  margin-top: 50px;
+}
+
+.ul-item a {
+  text-decoration: none;
+  text-transform: uppercase;
+  color: rgb(216, 79, 79);
+  font-size: 14px;
+}
+
+.ul-item a:hover {
+  color: #444;
+}
+
+.one {
+  color: gray;
+  align-items: center;
+  padding-bottom: 70px;
+  line-height: 20px;
+}
+
+.p-text {
+  color: rgb(216, 79, 79);
+}
+
+.all {
+  display: inline-flex;
+  justify-content: space-between;
+  text-align: center;
+  padding-left: 5%;
+}
+
+.img-fruit2 {
+  height: 170px;
+  width: 70%;
+  padding-left: 10px;
+}
+
+.img-fruit3 {
+  height: 170px;
+  width: 80%;
+  padding-right: 50px;
+}
+
+.text {
+  text-align: center;
+}
